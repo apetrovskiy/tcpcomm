@@ -1,0 +1,6 @@
+C:\Projects\probe\tcplistener\tcplistener\bin\Debug\tcplistener.exe.config
+C:\Projects\probe\tcplistener\tcplistener\bin\Debug\tcplistener.exe
+C:\Projects\probe\tcplistener\tcplistener\bin\Debug\tcplistener.pdb
+C:\Projects\probe\tcplistener\tcplistener\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Projects\probe\tcplistener\tcplistener\obj\x86\Debug\tcplistener.exe
+C:\Projects\probe\tcplistener\tcplistener\obj\x86\Debug\tcplistener.pdb

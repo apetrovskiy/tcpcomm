@@ -1,0 +1,8 @@
+C:\Projects\probe\tcpsender\bin\Debug\tcpsender.exe.config
+C:\Projects\probe\tcpsender\bin\Debug\tcpsender.exe
+C:\Projects\probe\tcpsender\bin\Debug\tcpsender.pdb
+C:\Projects\probe\tcpsender\bin\Debug\NLog.dll
+C:\Projects\probe\tcpsender\bin\Debug\NLog.xml
+C:\Projects\probe\tcpsender\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Projects\probe\tcpsender\obj\x86\Debug\tcpsender.exe
+C:\Projects\probe\tcpsender\obj\x86\Debug\tcpsender.pdb
